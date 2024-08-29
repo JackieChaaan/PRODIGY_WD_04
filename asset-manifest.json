@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PRODIGY_WD_04/static/css/main.18cfdad7.css",
+    "main.js": "/PRODIGY_WD_04/static/js/main.f9893e6b.js",
+    "static/js/453.2dd7f582.chunk.js": "/PRODIGY_WD_04/static/js/453.2dd7f582.chunk.js",
+    "static/media/stopwatch.png": "/PRODIGY_WD_04/static/media/stopwatch.f8ca35b3887c57a36432.png",
+    "static/media/Abel C Varghese_Updated Resume.pdf": "/PRODIGY_WD_04/static/media/Abel C Varghese_Updated Resume.c72f2a0583be4b15bd79.pdf",
+    "static/media/portfoliohome.jpg": "/PRODIGY_WD_04/static/media/portfoliohome.c108b6f582979692f7d1.jpg",
+    "static/media/hero.jpg": "/PRODIGY_WD_04/static/media/hero.d0b61cd7c50b72d3fc4a.jpg",
+    "static/media/landingpage1.png": "/PRODIGY_WD_04/static/media/landingpage1.e9e9734199902f2b41a4.png",
+    "static/media/weatherapp.jpg": "/PRODIGY_WD_04/static/media/weatherapp.5706455c6d262049dd0b.jpg",
+    "static/media/tictactoe.png": "/PRODIGY_WD_04/static/media/tictactoe.db960ffb106cc1ff7182.png",
+    "static/media/profilePic.jpg": "/PRODIGY_WD_04/static/media/profilePic.51b2e98c2cc1f1b535f5.jpg",
+    "index.html": "/PRODIGY_WD_04/index.html",
+    "main.18cfdad7.css.map": "/PRODIGY_WD_04/static/css/main.18cfdad7.css.map",
+    "main.f9893e6b.js.map": "/PRODIGY_WD_04/static/js/main.f9893e6b.js.map",
+    "453.2dd7f582.chunk.js.map": "/PRODIGY_WD_04/static/js/453.2dd7f582.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18cfdad7.css",
+    "static/js/main.f9893e6b.js"
+  ]
+}
