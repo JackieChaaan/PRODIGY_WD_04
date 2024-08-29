@@ -1,0 +1,53 @@
+.card {
+
+    min-height: 500px;
+    
+
+    .card-img {
+        overflow: hidden;
+        height: 15rem;
+
+        .card-img-top {
+            height: 100%;
+        }
+    }
+
+    .card-body {
+        text-align: center;
+
+        .card-title {
+            font-weight: 700;
+            color: var(--secondary-color);
+        }
+
+        .card-text {
+            text-align: justify;
+            min-height: 120px;
+        }
+
+        .check-button {
+            background-color: var(--secondary-color);
+            border: none;
+            outline: none;
+            text-align: center;
+
+            &:hover{
+                box-shadow: 0 0 9px 0 var(--secondary-color);
+                transition: all 0.3s ease-in-out;
+            }
+        }
+    }
+
+    &:hover {
+        outline: 2px solid var(--secondary-color);
+
+        .card-img {
+
+            .card-img-top {
+                transform: scale(1.1);
+                transition: all 0.5s linear;
+
+            }
+        }
+    }
+}
