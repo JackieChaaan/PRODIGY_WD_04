@@ -37,7 +37,7 @@ function About() {
                                         <h3 className="education-degree">Bachelor of Computer Applications (BCA)</h3>
                                         <p className="education-institute">Mount Carmel College (MCC)</p>
                                         <p className="education-institute">Kothamangalam</p>
-                                        <p className="education-duration">2018 - 2022</p>
+                                        <p className="education-duration">2015 - 2018</p>
                                     </div>
                                 </section>
 
