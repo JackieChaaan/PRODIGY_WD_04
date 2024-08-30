@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PRODIGY_WD_04/static/css/main.18cfdad7.css",
-    "main.js": "/PRODIGY_WD_04/static/js/main.ed923abf.js",
+    "main.js": "/PRODIGY_WD_04/static/js/main.9be9c0b0.js",
     "static/js/453.2dd7f582.chunk.js": "/PRODIGY_WD_04/static/js/453.2dd7f582.chunk.js",
     "static/media/stopwatch.png": "/PRODIGY_WD_04/static/media/stopwatch.f8ca35b3887c57a36432.png",
     "static/media/Abel C Varghese_Updated Resume.pdf": "/PRODIGY_WD_04/static/media/Abel C Varghese_Updated Resume.c72f2a0583be4b15bd79.pdf",
@@ -13,11 +13,11 @@
     "static/media/profilePic.jpg": "/PRODIGY_WD_04/static/media/profilePic.51b2e98c2cc1f1b535f5.jpg",
     "index.html": "/PRODIGY_WD_04/index.html",
     "main.18cfdad7.css.map": "/PRODIGY_WD_04/static/css/main.18cfdad7.css.map",
-    "main.ed923abf.js.map": "/PRODIGY_WD_04/static/js/main.ed923abf.js.map",
+    "main.9be9c0b0.js.map": "/PRODIGY_WD_04/static/js/main.9be9c0b0.js.map",
     "453.2dd7f582.chunk.js.map": "/PRODIGY_WD_04/static/js/453.2dd7f582.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18cfdad7.css",
-    "static/js/main.ed923abf.js"
+    "static/js/main.9be9c0b0.js"
   ]
 }
